@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ISMAIL-PDF-PARSER.iml" filepath="$PROJECT_DIR$/.idea/ISMAIL-PDF-PARSER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LLMCompanyParser.iml" filepath="$PROJECT_DIR$/.idea/LLMCompanyParser.iml" />
     </modules>
   </component>
 </project>
