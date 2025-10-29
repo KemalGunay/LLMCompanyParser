@@ -75,6 +75,15 @@ python main.py
 
 ---
 
+## 📌 Sample Screenshot from example pdf
+
+Here is an example page from the BMF Handbook used for testing:
+
+![ExampleScreen](https://github.com/KemalGunay/LLMCompanyParser/blob/main/ASSETS/ExampleScreen.png?raw=true)
+
+
+---
+
 ## 📌 Sample Output / Örnek Çıktı
 
 | CompanyName | Address | PhoneNumber_Main | Email | Website | CoreActivity | BranchLocation_1 | BranchPhoneNumber_1 |
